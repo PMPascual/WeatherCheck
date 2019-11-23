@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherCheck</string>
+    <string name="default_message">Checking weather...</string>
+    <string name="default_temperature">N/A</string>
+    <string name="change_city">Change City</string>
+    <string name="image_description">Weather image</string>
+    <string name="back_button">Back Button</string>
+    <string name="go_back">Go Back</string>
+    <string name="enter_city_default">Enter City Name</string>
+    <string name="change_city_text">Change City</string>
+</resources>
